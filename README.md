@@ -199,7 +199,9 @@ See the Intellectual Property Notice, Innovation Register, and Authorship Record
 ## Author
 
 **Narin Nandivada**
+
 SAP S/4HANA Engineering Lead
+
 Concept Originator and Architecture Author of the Financial Wellness Decision Engine (FWDE)
 
 ---
