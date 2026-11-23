@@ -1,8 +1,9 @@
 # FINANCIAL WELLNESS DECISION ENGINE
 ## A Real-Time Financial Health & Affordability Platform for Digital Banking
-**Version:** 1.0
 **Author:** Narin Nandivada
-**Date:** 19 November 2026
+**Created:** 19 November 2026
+**Published:** 23 November 2026
+**Version:** 1.0 (Public Edition)
 **Status:** Innovation Concept Paper
 
 ## Intellectual Property Notice
@@ -1496,11 +1497,13 @@ Together these concepts establish a future-state financial wellness platform tha
 
 **Document Title:** Financial Wellness Decision Engine™
 
-**Version:** 1.0
+**Version:** 1.0 Public Edition
 
 **Author:** Narin Nandivada
 
 **Created:** 19 November 2026
+
+**Published:** 23 November 2026
 
 **Purpose:** Innovation concept paper documenting the Financial Wellness Decision Engine architecture, financial wellness frameworks, and projected financial health methodologies.
 
