@@ -200,7 +200,7 @@ See the Intellectual Property Notice, Innovation Register, and Authorship Record
 
 **Narin Nandivada**
 
-SAP S/4HANA Engineering Lead
+SAP S/4HANA Engineering Lead | Techno-Functional SME | Digital Transformation & Banking Innovation
 
 Concept Originator and Architecture Author of the Financial Wellness Decision Engine (FWDE)
 
